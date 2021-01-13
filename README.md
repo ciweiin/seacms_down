@@ -25,4 +25,7 @@ Seacms CMS compression package package download! Easy to use for beginners! The 
 
 [https://github.com/ciweiin/seacms_down/raw/main/SeaCMS.zip](https://github.com/ciweiin/seacms_down/raw/main/SeaCMS.zip)
 
+第三方CDN加速 影视管理系统 最新版 v12.6
+
+[https://cdn.jsdelivr.net/gh/ciweiin/seacms_down/dist/SeaCMS.zip](https://cdn.jsdelivr.net/gh/ciweiin/seacms_down/dist/SeaCMS.zip)
 
