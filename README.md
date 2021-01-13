@@ -11,3 +11,11 @@ This program is for internal learning and communication use only, there is no bu
 Seacms CMS compression package package download! Easy to use for beginners! The latest complete package + update package!
 
 #下载直链
+
+全部打包 最新版 v12.6
+
+[https://github.com/ciweiin/seacms_down/archive/seacms.zip](https://github.com/ciweiin/seacms_down/archive/seacms.zip)
+
+第三方CDN加速下载
+
+[https://cdn.jsdelivr.net/gh/ciweiin/seacms_down/](https://cdn.jsdelivr.net/gh/ciweiin/seacms_down/)
