@@ -6,7 +6,7 @@ This program is for internal learning and communication use only, there is no bu
 
 # 简单介绍
 
-苹果CMS各种程序压缩包打包下载！方便新手使用！最新完整程序包+更新包！
+海洋CMS各种程序压缩包打包下载！方便新手使用！最新完整程序包+更新包！
 
 Seacms CMS compression package package download! Easy to use for beginners! The latest complete package + update package!
 
